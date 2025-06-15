@@ -1,0 +1,11 @@
+# Supabase Configuration
+SUPABASE_URL=
+
+SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+
+# Server Configuration
+PORT=
+NODE_ENV=
+
+DATABASE_URL=
